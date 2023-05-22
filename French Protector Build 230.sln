@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31521.260
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "French Protector Build 230", "French Protector Build 230\French Protector Build 230.vbproj", "{4BBA3EF6-FA5D-42F8-B1E2-40471E83A388}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BBA3EF6-FA5D-42F8-B1E2-40471E83A388}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BBA3EF6-FA5D-42F8-B1E2-40471E83A388}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BBA3EF6-FA5D-42F8-B1E2-40471E83A388}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BBA3EF6-FA5D-42F8-B1E2-40471E83A388}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59411E21-A456-48E7-9F8F-40DB70F42BE6}
+	EndGlobalSection
+EndGlobal

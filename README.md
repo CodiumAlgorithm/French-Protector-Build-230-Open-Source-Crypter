@@ -1,5 +1,5 @@
 # French Crypt
-### VB.NET crypter v 1.0
+### VB.NET Powerfull Crypter Bypasses WD 
 
 ## Authors
 AAR ~ FiveSeven

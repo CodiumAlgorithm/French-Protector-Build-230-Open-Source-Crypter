@@ -15,7 +15,7 @@ Don't be a script kiddie, I made this in Old years so you can make your own modi
 
 
 ## Features
-Xencrypt:
+FrenchCrypt:
 * Bypasses AMSI and all modern AVs in use on VirusTotal (as of writing)
 * Compresses and encrypts 
 * uses Runpe
